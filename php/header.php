@@ -11,9 +11,10 @@
 		<link rel="shortcut icon" href="img/Favicon.ico">
 		<link rel="stylesheet" type="text/css" href="css/general.css">
 		<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+		<link rel="stylesheet" type="text/css" href="css/footer.css">
 		<link rel="stylesheet" type="text/css" href="css/header.css">
 	<!-- Scripts -->
-		<script type='text/javascript' src="js/jquery-2.1.0.min.js"></script>
+		<script type='text/javascript' src="js/jquery-2.1.4.min.js"></script>
 		<script type="text/javascript" src="js/scripts.js"></script>
 	<!-- Isologotipo + Navegación -->
 		<header id="estructura-header">
